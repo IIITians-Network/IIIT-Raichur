@@ -1,0 +1,13 @@
+title: Raichur | IIITians Network
+email: vibhanshujain99@gmail.com
+description: IIIT Raichur Page of IIITians Network	
+baseurl: ""
+url: 
+twitter_username: 
+github_username: 
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
